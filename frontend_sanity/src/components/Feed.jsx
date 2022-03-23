@@ -34,13 +34,7 @@ const Feed = () => {
       <Spinner message={`We are adding ${ideaName} ideas to your feed!`} />
     );
   }
-  return (
-    <div>
-      {pins && (
-        <MasonryLayout pins={pins} />
-      )}
-    </div>
-  );
+  return <div>{pins && <MasonryLayout pins={pins} />}</div>;
 };
 
 export default Feed;

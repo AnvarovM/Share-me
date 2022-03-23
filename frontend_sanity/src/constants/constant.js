@@ -1,6 +1,7 @@
-export const GOOGLE_API = '610446558756-me18d36a156a34l4gl2mj8f9tf7refll.apps.googleusercontent.com';
+export const GOOGLE_API =
+  '610446558756-me18d36a156a34l4gl2mj8f9tf7refll.apps.googleusercontent.com';
 
 export const REACT_APP_SANITY_PROJECT_ID = '9msw3zyp';
 
 export const REACT_APP_SANITY_TOKEN =
-  'sknWLTcD6RV3cz4iihpmAleBUacIOdFF9FBK3k0APVryiCMGyaHeoLq4CZVsGGHREz8xILRczEG2JLZeoJYDOx0Tg6uofeEKJourWF9PiHHUNAPDnBUULhA7E5ywwYkcl8r4JpNcF7Yu9utldBd87Z3fI5twZuudN3OIJmDdEDqXQNTVRLR5';
+  'skw5gNKs63A6WdVxE9daqbqk8NjLSzpx3XTTGicZfODss7at738qPQxl2Ysot9ZY3sHwoWdjSufJ3QouVT7kb4ztinYOaYXLfxpZa3pGOjLllh7ThtBWalX87RqNF7QX3suxwoWwAK1rFMI3IJpZ6MQoz0UGcG6uXaSl4Jz8XRph6kMQVwnO';
